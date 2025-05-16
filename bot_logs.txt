@@ -1,0 +1,32 @@
+[2025-05-15T05:03:59.248Z] aron.ww used stealemoji 
+[2025-05-15T05:04:12.101Z] aron.ww used purge 3
+[2025-05-15T05:39:25.172Z] aron.ww used afk 
+[2025-05-15T05:39:31.623Z] aron.ww used afk lun
+[2025-05-15T05:40:14.265Z] aron.ww used ban <@1150800549499912393> ?
+[2025-05-15T05:40:24.593Z] aron.ww used unban 1150800549499912393
+[2025-05-15T05:41:22.696Z] aron.ww used ban <@893017201840382012>
+[2025-05-15T05:41:36.525Z] aron.ww used unban 893017201840382012
+[2025-05-15T05:41:52.640Z] aron.ww used purge 6
+[2025-05-15T05:42:03.319Z] aron.ww used purge 2
+[2025-05-15T05:55:29.935Z] aron.ww used ping 
+[2025-05-15T10:05:27.533Z] aron.ww used hell 
+[2025-05-15T10:05:29.548Z] aron.ww used help 
+[2025-05-15T10:05:33.622Z] aron.ww used ping 
+[2025-05-15T10:09:02.875Z] aron.ww used ping 
+[2025-05-15T10:09:08.946Z] aron.ww used purge 3
+[2025-05-15T10:09:11.554Z] aron.ww used help 
+[2025-05-15T10:09:15.663Z] aron.ww used snipe 
+[2025-05-15T10:19:47.607Z] aron.ww used help 
+[2025-05-15T10:19:49.782Z] aron.ww used snipe 
+[2025-05-15T10:20:00.617Z] aron.ww used snipe 
+[2025-05-15T10:20:13.574Z] aron.ww used purge 3
+[2025-05-15T11:28:55.745Z] aron.ww used hell 
+[2025-05-15T11:28:58.480Z] aron.ww used help 
+[2025-05-15T11:29:02.268Z] aron.ww used purge all
+[2025-05-15T11:29:05.327Z] aron.ww used purge 50
+[2025-05-15T12:18:04.913Z] aron.ww used help 
+[2025-05-15T12:18:09.730Z] aron.ww used ping 
+[2025-05-15T15:57:39.310Z] aron.ww used help 
+[2025-05-15T18:35:43.048Z] iliketoeepalot used help 
+[2025-05-15T18:35:51.332Z] iliketoeepalot used av 
+[2025-05-15T18:36:14.480Z] iliketoeepalot used snipe 
